@@ -1,12 +1,14 @@
 <h1 align="center">Hi, I'm Pablo! :stars:</h1>
 
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=pablorvr1004:mail@gmail.com)](pablorvr1004:mail@gmail.com)
 ![Pronouns](https://img.shields.io/badge/Pronouns-He%2FHim-brightgreen?style=flat)
+
 
 ## About Me :wave:
 
 Hey there! :smile: My name is Pablo. I'm a 21-year-old web developer from Spain. I'm looking for open-source projects to contribute to and people to collaborate with!
-I'm always looking to work with people that are interested in creating and working on cool, interesting projects! Shoot me [an e-mail](pablorvr1004:mail@gmail.com) if that sounds like your cup of tea. :coffee:
+I'm always looking to work with people that are interested in creating and working on cool, interesting projects! Shoot me an email at: pablorvr1004@gmail.com if that sounds like your cup of tea. :coffee:
+
+You can also check my linkedin profile [here](www.linkedin.com/in/pablo-rivela-rodríguez-119490279)
 
 ## Languages :books:
 
