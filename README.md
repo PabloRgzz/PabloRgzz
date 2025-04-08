@@ -17,6 +17,7 @@ You can also check my linkedin profile [here](www.linkedin.com/in/pablo-rivela-r
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
+![PhP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
 
 
 
