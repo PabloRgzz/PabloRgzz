@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Pablo! :stars:</h1>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in//pablo-rivela-rodr%C3%ADguez-119490279//)](https://[linkedin.com/in/brennankbrown/](https://www.linkedin.com/in/pablo-rivela-rodr%C3%ADguez-119490279/))
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=pablorvr1004:mail@gmail.com)](pablorvr1004:mail@gmail.com)
 ![Pronouns](https://img.shields.io/badge/Pronouns-He%2FHim-brightgreen?style=flat)
 
