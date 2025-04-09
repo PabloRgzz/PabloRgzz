@@ -31,5 +31,5 @@ You can also check my linkedin profile [here](www.linkedin.com/in/pablo-rivela-r
 
 ## Overview:
 
-<img align="left" alt="Pablo Github Stats" src="https://github-readme-stats.vercel.app/api?username=PabloRgzz&show_icons=true" />  &nbsp;
+![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloRgzz&show_icons=true&theme=transparent)  &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloRgzz)](https://github.com/anuraghazra/github-readme-stats)
