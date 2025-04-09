@@ -28,6 +28,7 @@ You can also check my linkedin profile [here](www.linkedin.com/in/pablo-rivela-r
 ![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js) <br />
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github)
+![Astro](https://img.shields.io/badge/-Astro-000000?style=flat&logo=astro)
 
 ## Overview:
 
